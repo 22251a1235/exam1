@@ -8,6 +8,6 @@ public class Fact {
   }
   public static void main(String args[]) {
     int num = 5;
-    System.out.println("Factorial of" + num + "is: " + compute(num));
+    System.out.println("Factorial of " + num + " is: " + compute(num));
   }
 }
